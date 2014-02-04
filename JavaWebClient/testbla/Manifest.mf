@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Class-Path: PDF_TO_TEXT_V2.jar pentru_QA.jar
+Main-Class: JavaWebClient
+

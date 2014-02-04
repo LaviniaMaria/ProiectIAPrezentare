@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://nlptools.infoiasi.ro/WebPosRo/PosTaggerRoWS?wsdl" uri="xml-resources/web-service-references/PosTaggerRoWS/wsdl/nlptools.infoiasi.ro/WebPosRo/PosTaggerRoWS.wsdl"/>
+    <system systemId="http://nlptools.infoiasi.ro:80/WebPosRo/PosTaggerRoWS?xsd=1" uri="xml-resources/web-service-references/PosTaggerRoWS/wsdl/nlptools.infoiasi.ro_80/WebPosRo/PosTaggerRoWS.xsd_1.xsd"/>
+    <system systemId="http://nlptools.infoiasi.ro/WebNpChunkerRo/NpChunkerRoWS?wsdl" uri="xml-resources/web-service-references/NpChunkerRoWS/wsdl/nlptools.infoiasi.ro/WebNpChunkerRo/NpChunkerRoWS.wsdl"/>
+    <system systemId="http://nlptools.infoiasi.ro:80/WebNpChunkerRo/NpChunkerRoWS?xsd=1" uri="xml-resources/web-service-references/NpChunkerRoWS/wsdl/nlptools.infoiasi.ro_80/WebNpChunkerRo/NpChunkerRoWS.xsd_1.xsd"/>
+</catalog>

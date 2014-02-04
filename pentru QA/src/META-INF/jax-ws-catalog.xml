@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://nlptools.info.uaic.ro/WebNpChunkerRo/NpChunkerRoWS?wsdl" uri="wsdl/nlptools.info.uaic.ro/WebNpChunkerRo/NpChunkerRoWS.wsdl"/>
+    <system systemId="http://nlptools.info.uaic.ro:80/WebNpChunkerRo/NpChunkerRoWS?xsd=1" uri="wsdl/nlptools.info.uaic.ro_80/WebNpChunkerRo/NpChunkerRoWS.xsd_1.xsd"/>
+</catalog>
